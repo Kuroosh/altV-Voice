@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voice", "Voice.csproj", "{966A59B1-497F-425F-A7D3-81934ECDDD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966A59B1-497F-425F-A7D3-81934ECDDD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966A59B1-497F-425F-A7D3-81934ECDDD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966A59B1-497F-425F-A7D3-81934ECDDD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966A59B1-497F-425F-A7D3-81934ECDDD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8654849F-7363-45EB-B5CD-ABD662E10BFB}
+	EndGlobalSection
+EndGlobal
